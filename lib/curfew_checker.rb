@@ -1,7 +1,8 @@
-def simple_curfew_checker(time)
-  # code goes here
+def simple_curfew_checker(time) 
+  if time 
+  
 end
-
+simple_curfew_checker(8)
 def curfew_checker(time)
   # code goes here
 end
